@@ -61,3 +61,9 @@
     </span></a>
 <br>                 
 <hr> 
+## 🐛Github Magic Game
+
+<p align="center">
+  <img src="https://github.com/ghulamahma/ghulamahma/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+<br>
