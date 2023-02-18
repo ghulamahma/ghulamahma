@@ -35,8 +35,7 @@
 <a href="https://leetcode.com/GhulamAhmad381/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="GhulamAhmad381" height="30" width="40" /></a>
 </p>
 <hr>
-<p align = "center"><h2>Profile Views 👀</h2> 
-<br>  
+<p align = "center"><h2>Profile Views 👀</h2> <br> 
 <img src="https://profile-counter.glitch.me/ghulamahma/count.svg" />
 </p>
 
