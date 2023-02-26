@@ -30,7 +30,7 @@
 <hr>
 </p align="center">
 <a href="https://twitter.com/GhulamA381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="GhulamA381" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ghulam-ahmad-840a06249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ghulam Ahmad" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ghulam-ga-840a06249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ghulam Ahmad" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ghulamahmad_1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ghulamahmad_1" height="30" width="40" /></a>
 <a href="https://leetcode.com/GhulamAhmad381/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="GhulamAhmad381" height="30" width="40" /></a>
 </p>
@@ -60,4 +60,4 @@
           <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghulamahma&theme=gruvbox&hide_border=false" />
     </span></a>
 <br>                 
-<hr> 
+<hr>
